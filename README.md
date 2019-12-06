@@ -2,4 +2,4 @@
 
 ~help    //links to this page 
 
-~play <keyword> //plays music
+~play (keyword) //plays music
